@@ -1,2 +1,2 @@
 # jiangyun
-this is a test repo
+This is a java, js, github learning project 
